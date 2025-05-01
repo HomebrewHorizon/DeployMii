@@ -1,4 +1,5 @@
 module depmii;
+module npm;
 
 import std.stdio;
 
